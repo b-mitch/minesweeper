@@ -1,5 +1,6 @@
 # Welcome to my Minesweeper console game!
 ## A simple, fun implementation of Object-Oriented Programming
+### Try it out and let me know what you think. I welcome any and all feedback!
 ### Setup
 1. Copy and paste the code into a new & empty .py file
 2. In your shell, cd into the directory holding the file from step 1
