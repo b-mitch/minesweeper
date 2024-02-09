@@ -3,8 +3,9 @@
 ### Try it out and let me know what you think. I welcome any and all feedback!
 ### Setup
 1. Copy and paste the code into a new & empty .py file
-2. In your shell, cd into the directory holding the file from step 1
-3. run `python3 <your_file>.py`
-4. Follow the prompts & enjoy!
+    1. Or clone the repo 
+3. In your shell, cd into the directory holding the file from step 1
+4. run `python3 <your_file>.py`
+5. Follow the prompts & enjoy!
 ### Requirements
 1. Python3
